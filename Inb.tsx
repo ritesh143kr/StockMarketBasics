@@ -1,7 +1,7 @@
 [
 {
       "Id":"1",
-      "Name":"Index of nse & bse",
+      "Name":"Index of nse & bse.",
       "Text1":"Fundamental Analysis\n",
       "bold1":"bold",
       "bold2":"",
