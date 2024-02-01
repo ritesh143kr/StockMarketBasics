@@ -72,10 +72,10 @@
 {
       "Id":"03",
       "Name":"Fixed Income Instruments",
-      "Text1":"",
-      "bold1":"",
+      "Text1":"Introduction",
+      "bold1":"bold",
       "bold2":"",
-      "Para1":"",
+      "Para1":"A fixed-income instrument is a financial asset that provides investors with a fixed return and, typically, the return of the original investment amount at maturity. They are essentially debt instruments issued by an entity (like a government or company) to borrow money from investors.",
       "Image1":"https://github.com/ritesh143kr/StockMarketBasics/assets/127919799/6f26097f-0b76-41e7-96e1-0620e803d9b6",
       "Text2":"",
       "bold3":"",
