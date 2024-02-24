@@ -1,19 +1,17 @@
 {
     "blogs": [
       {
-        "category": "Fundamental Analysis",
-        "title": "Introduction to Candlestick Patterns",
+        "category": "All about investment",
         "chapter": "Concept of Investment",
         "rec":"Coi",
         "ch":"Stock Basics Module",
         "intial":"0",
         "final":"1",
         "image":"https://img.freepik.com/free-vector/illustration-financial-concept_53876-20546.jpg?t=st=1708592744~exp=1708596344~hmac=fb16722592acd0be9accb0b8a57b94c439a23f92cf64b956a8e68a09ca4ceae8&w=1060",
-        "paragraph": "Candlestick patterns are a popular method of technical analysis used by....."
+        "paragraph": "Investment is the use of money with the aim of earning a profit ....."
       },
       {
-        "category": "Technical Analysis",
-        "title": "Understanding Price-to-Earnings Ratio (P/E Ratio)",
+        "category": "price to earning ratio",
         "chapter": "Single Candlestic Pattern",
         "rec":"SingleCan",
         "ch":"Technical Analysis Module",
@@ -23,7 +21,7 @@
         "paragraph": "The price-to-earnings ratio, or P/E ratio, is a key metric used in....."
       },
       {
-        "category": "Commodity",
+        "category": "Gold investment strategy",
         "title": "The Impact of Supply and Demand on Gold Prices",
         "author": "David Johnson",
         "rec":"Fri",
@@ -34,7 +32,7 @@
         "paragraph": "Gold prices are heavily influenced by supply and demand dynamics......"
       },
       {
-        "category": "Mutual Funds",
+        "category": "Silver investment strategy",
         "title": "The Impact of Supply and Demand on Gold Prices",
         "author": "David Johnson",
         "rec":"Fri",
@@ -42,7 +40,7 @@
         "intial":"2",
         "final":"1",
         "image":"https://img.freepik.com/free-vector/illustration-startup-business_53876-9144.jpg?t=st=1708590470~exp=1708594070~hmac=73cb38144c3d33e5944ad7424d2fdf53a03d22b930adf5756b9857b67857b9a7&w=1060",
-        "paragraph": "Gold prices are heavily influenced by supply and demand dynamics......"
+        "paragraph": "Silver prices are heavily influenced by supply and demand dynamics......"
       },
       {
         "category": "Financial Modeling",
