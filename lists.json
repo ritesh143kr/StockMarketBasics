@@ -1,0 +1,12 @@
+{
+  "Lists":[
+    {
+      "Name":"Fundamental Analysis",
+      "Text1":"This is a tool by which a market analyst predict the future price of stock"
+    },
+    {
+      "Name":"Technical Analysis",
+      "Text1":"This is a tool by which a market analyst predict the future price of stock"
+    }
+  ]
+}
