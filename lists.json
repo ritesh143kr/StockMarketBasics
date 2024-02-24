@@ -1,12 +1,71 @@
 {
-  "Lists":[
-    {
-      "Name":"Fundamental Analysis",
-      "Text1":"This is a tool by which a market analyst predict the future price of stock"
-    },
-    {
-      "Name":"Technical Analysis",
-      "Text1":"This is a tool by which a market analyst predict the future price of stock"
-    }
-  ]
-}
+    "blogs": [
+      {
+        "category": "Fundamental Analysis",
+        "title": "Introduction to Candlestick Patterns",
+        "chapter": "Concept of Investment",
+        "rec":"Coi",
+        "ch":"Stock Basics Module",
+        "intial":"0",
+        "final":"1",
+        "image":"https://img.freepik.com/free-vector/illustration-financial-concept_53876-20546.jpg?t=st=1708592744~exp=1708596344~hmac=fb16722592acd0be9accb0b8a57b94c439a23f92cf64b956a8e68a09ca4ceae8&w=1060",
+        "paragraph": "Candlestick patterns are a popular method of technical analysis used by....."
+      },
+      {
+        "category": "Technical Analysis",
+        "title": "Understanding Price-to-Earnings Ratio (P/E Ratio)",
+        "chapter": "Single Candlestic Pattern",
+        "rec":"SingleCan",
+        "ch":"Technical Analysis Module",
+        "intial":"1",
+        "final":"2",
+        "image":"https://img.freepik.com/free-vector/business-finance-banner_1150-50302.jpg?w=1380&t=st=1708590133~exp=1708590733~hmac=9814cb64c5e3b8570f238b5b137ca8935361673de6d879bfb0581594064d1874",
+        "paragraph": "The price-to-earnings ratio, or P/E ratio, is a key metric used in....."
+      },
+      {
+        "category": "Commodity",
+        "title": "The Impact of Supply and Demand on Gold Prices",
+        "author": "David Johnson",
+        "rec":"Fri",
+        "ch":"Fundamental Analysis Module",
+        "intial":"2",
+        "final":"1",
+        "image":"https://img.freepik.com/free-vector/finance-infographic-concept_52683-40550.jpg?t=st=1708593182~exp=1708596782~hmac=d0e1955e091e379280bfc0c604311a548da7273bf6f3d1f6427e6f9e1cc76dd3&w=996",
+        "paragraph": "Gold prices are heavily influenced by supply and demand dynamics......"
+      },
+      {
+        "category": "Mutual Funds",
+        "title": "The Impact of Supply and Demand on Gold Prices",
+        "author": "David Johnson",
+        "rec":"Fri",
+        "ch":"Fundamental Analysis Module",
+        "intial":"2",
+        "final":"1",
+        "image":"https://img.freepik.com/free-vector/illustration-startup-business_53876-9144.jpg?t=st=1708590470~exp=1708594070~hmac=73cb38144c3d33e5944ad7424d2fdf53a03d22b930adf5756b9857b67857b9a7&w=1060",
+        "paragraph": "Gold prices are heavily influenced by supply and demand dynamics......"
+      },
+      {
+        "category": "Financial Modeling",
+        "title": "The Impact of Supply and Demand on Gold Prices",
+        "author": "David Johnson",
+        "rec":"Fri",
+        "ch":"Fundamental Analysis Module",
+        "intial":"2",
+        "final":"1",
+        "image":"https://img.freepik.com/free-vector/illustration-startup-business_53876-9144.jpg?t=st=1708590470~exp=1708594070~hmac=73cb38144c3d33e5944ad7424d2fdf53a03d22b930adf5756b9857b67857b9a7&w=1060",
+        "paragraph": "Gold prices are heavily influenced by supply and demand dynamics......"
+      },
+      {
+        "category": "Commodity",
+        "title": "The Impact of Supply and Demand on Gold Prices",
+        "author": "David Johnson",
+        "rec":"Fri",
+        "ch":"Fundamental Analysis Module",
+        "intial":"2",
+        "final":"1",
+        "image":"https://img.freepik.com/free-vector/illustration-startup-business_53876-9144.jpg?t=st=1708590470~exp=1708594070~hmac=73cb38144c3d33e5944ad7424d2fdf53a03d22b930adf5756b9857b67857b9a7&w=1060",
+        "paragraph": "Gold prices are heavily influenced by supply and demand dynamics......"
+      }
+    ]
+  }
+  
