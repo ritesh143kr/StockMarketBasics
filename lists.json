@@ -1,14 +1,14 @@
 {
     "blogs": [
       {
-        "category": "All about investment",
-        "chapter": "Concept of Investment",
-        "rec":"Coi",
-        "ch":"Stock Basics Module",
+        "category": "Hammer Candlestick Pattern",
+        "chapter": "Single Candlestick Pattern",
+        "rec":"SingleCan",
+        "ch":"Technical Analysis Module",
         "intial":"0",
         "final":"1",
-        "image":"https://img.freepik.com/free-vector/illustration-financial-concept_53876-20546.jpg?t=st=1708592744~exp=1708596344~hmac=fb16722592acd0be9accb0b8a57b94c439a23f92cf64b956a8e68a09ca4ceae8&w=1060",
-        "paragraph": "Investment is the use of money with the aim of earning a profit ....."
+        "image":"https://github.com/ritesh143kr/Adapi/assets/127919799/86d013a1-4b65-490d-8c1c-35e79975f5f5",
+        "paragraph": "The hammer candlestick is considered a bullish signal when it appears in a downtrend....."
       },
       {
         "category": "Price to earning ratio",
@@ -54,15 +54,14 @@
         "paragraph": "Gold prices are heavily influenced by supply and demand dynamics......"
       },
       {
-        "category": "Commodity",
-        "title": "The Impact of Supply and Demand on Gold Prices",
-        "author": "David Johnson",
-        "rec":"Fri",
-        "ch":"Fundamental Analysis Module",
-        "intial":"2",
+        "category": "All about investment",
+        "chapter": "Concept of Investment",
+        "rec":"Coi",
+        "ch":"Stock Basics Module",
+        "intial":"0",
         "final":"1",
-        "image":"https://img.freepik.com/free-vector/illustration-startup-business_53876-9144.jpg?t=st=1708590470~exp=1708594070~hmac=73cb38144c3d33e5944ad7424d2fdf53a03d22b930adf5756b9857b67857b9a7&w=1060",
-        "paragraph": "Gold prices are heavily influenced by supply and demand dynamics......"
+        "image":"https://github.com/ritesh143kr/StockMarketBasics/assets/127919799/7c0ba228-da4e-4360-ab84-f6777635d8c8",
+        "paragraph": "Investment is the use of money with the aim of earning a profit or positive return......"
       }
     ]
   }
