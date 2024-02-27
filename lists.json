@@ -11,47 +11,34 @@
         "paragraph": "The hammer candlestick is considered a bullish signal when it....."
       },
       {
-        "category": "Price to earning ratio",
+        "category": "Hanging Man Candlestick Pattern",
         "chapter": "Single Candlestic Pattern",
         "rec":"SingleCan",
         "ch":"Technical Analysis Module",
         "intial":"1",
         "final":"2",
-        "image":"https://img.freepik.com/free-vector/business-finance-banner_1150-50302.jpg?w=1380&t=st=1708590133~exp=1708590733~hmac=9814cb64c5e3b8570f238b5b137ca8935361673de6d879bfb0581594064d1874",
-        "paragraph": "The price-to-earnings ratio, or P/E ratio, is a key metric used in....."
+        "image":"https://github.com/ritesh143kr/Adapi/assets/127919799/65804cd7-806d-4af1-8055-dff5ef95a3fd",
+        "paragraph": "The Hanging Man is a bearish reversal candlestick pattern used in....."
       },
       {
-        "category": "Gold investment strategy",
-        "title": "The Impact of Supply and Demand on Gold Prices",
-        "author": "David Johnson",
-        "rec":"Fri",
-        "ch":"Fundamental Analysis Module",
+        "category": "Inverted Hammer Candlestick Pattern",
+        "chapter": "Single Candlestic Pattern",
+        "rec":"SingleCan",
+        "ch":"Technical Analysis Module",
         "intial":"2",
-        "final":"1",
-        "image":"https://img.freepik.com/free-vector/finance-infographic-concept_52683-40550.jpg?t=st=1708593182~exp=1708596782~hmac=d0e1955e091e379280bfc0c604311a548da7273bf6f3d1f6427e6f9e1cc76dd3&w=996",
-        "paragraph": "Gold prices are heavily influenced by supply and demand dynamics......"
+        "final":"3",
+        "image":"https://github.com/ritesh143kr/Adapi/assets/127919799/50def37f-1243-4f2b-9915-5b16b6079750",
+        "paragraph": "An inverted hammer candlestick is a pattern used in technical analysis to predict......"
       },
       {
-        "category": "Silver investment strategy",
-        "title": "The Impact of Supply and Demand on Gold Prices",
-        "author": "David Johnson",
-        "rec":"Fri",
-        "ch":"Fundamental Analysis Module",
-        "intial":"2",
-        "final":"1",
-        "image":"https://img.freepik.com/free-vector/illustration-startup-business_53876-9144.jpg?t=st=1708590470~exp=1708594070~hmac=73cb38144c3d33e5944ad7424d2fdf53a03d22b930adf5756b9857b67857b9a7&w=1060",
-        "paragraph": "Silver prices are heavily influenced by supply and demand dynamics......"
-      },
-      {
-        "category": "Financial Modeling",
-        "title": "The Impact of Supply and Demand on Gold Prices",
-        "author": "David Johnson",
-        "rec":"Fri",
-        "ch":"Fundamental Analysis Module",
-        "intial":"2",
-        "final":"1",
-        "image":"https://img.freepik.com/free-vector/illustration-startup-business_53876-9144.jpg?t=st=1708590470~exp=1708594070~hmac=73cb38144c3d33e5944ad7424d2fdf53a03d22b930adf5756b9857b67857b9a7&w=1060",
-        "paragraph": "Gold prices are heavily influenced by supply and demand dynamics......"
+        "category": "Hangingn Man Candlestick Pattern",
+        "chapter": "Single Candlestic Pattern",
+        "rec":"SingleCan",
+        "ch":"Technical Analysis Module",
+        "intial":"3",
+        "final":"4",
+        "image":"https://github.com/ritesh143kr/Adapi/assets/127919799/fe8f1d7c-d401-4b71-b089-213f1f0fa083",
+        "paragraph": "shooting star candlestick is a technical analysis pattern used in stock trading ......"
       },
       {
         "category": "All about investment",
