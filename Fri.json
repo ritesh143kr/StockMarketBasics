@@ -2,12 +2,12 @@
    "blogs":[
      {
       "Id":"01",
-      "Name":"All aboout investment",
-      "Text1":"Investment\n",
+      "Name":"The Stock market ",
+      "Text1":"Introduction\n",
       "bold1":"bold",
       "bold2":"",
-      "Para1":"Investment is the use of money with the aim of earning a profit or positive return over time by allocating it to different assets or financial instruments.\n",
-      "Image1":"https://github.com/ritesh143kr/StockMarketBasics/assets/127919799/7c0ba228-da4e-4360-ab84-f6777635d8c8",
+      "Para1":"Imagine the stock market like a giant marketplace where people buy and sell tiny pieces of ownership in companies. These pieces of ownership are called stocks.\n",
+      "Image1":"",
       "Text2":"Benefits of investing\n",
       "bold3":"bold",
       "bold4":"",
