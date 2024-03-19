@@ -8,7 +8,7 @@
         "intial":"0",
         "final":"1",
         "image":"https://github.com/ritesh143kr/Adapi/assets/127919799/86d013a1-4b65-490d-8c1c-35e79975f5f5",
-        "paragraph": "The hammer candlestick is considered a bullish signal when it....."
+        "paragraph": "The hammer candlestick is considered a bullish signal when it  ....."
       },
       {
         "category": "Hanging Man Candlestick Pattern",
@@ -18,7 +18,7 @@
         "intial":"1",
         "final":"2",
         "image":"https://github.com/ritesh143kr/Adapi/assets/127919799/65804cd7-806d-4af1-8055-dff5ef95a3fd",
-        "paragraph": "The Hanging Man is a bearish reversal candlestick pattern used in....."
+        "paragraph": "The Hanging Man is a bearish reversal candlestick pattern used in  ....."
       },
       {
         "category": "Inverted Hammer Candlestick Pattern",
@@ -28,7 +28,7 @@
         "intial":"2",
         "final":"3",
         "image":"https://github.com/ritesh143kr/Adapi/assets/127919799/50def37f-1243-4f2b-9915-5b16b6079750",
-        "paragraph": "An inverted hammer candlestick is a pattern used in technical analysis to predict......"
+        "paragraph": "An inverted hammer candlestick is a pattern used in technical  ......"
       },
       {
         "category": "Shooting Star Candlestick Pattern",
@@ -38,7 +38,7 @@
         "intial":"3",
         "final":"4",
         "image":"https://github.com/ritesh143kr/Adapi/assets/127919799/fe8f1d7c-d401-4b71-b089-213f1f0fa083",
-        "paragraph": "shooting star candlestick is a technical analysis pattern used in stock trading ......"
+        "paragraph": "shooting star candlestick is a technical analysis pattern used in stock ......"
       },
       {
         "category": "All about investment",
@@ -48,7 +48,7 @@
         "intial":"0",
         "final":"1",
         "image":"https://github.com/ritesh143kr/StockMarketBasics/assets/127919799/7c0ba228-da4e-4360-ab84-f6777635d8c8",
-        "paragraph": "Investment is the use of money with the aim of earning a profit or positive return......"
+        "paragraph": "Investment is the use of money with the aim of earning a profit or positive ......"
       }
     ]
   }
